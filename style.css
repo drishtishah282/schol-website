@@ -10,6 +10,86 @@ body {
 }
 
 img {
-    height:200px;
-    width:300px;
+    height: 200px;
+    width: 300px;
+}
+
+.travel_mainDiv {
+    border: 5px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.environment_li {
+    margin-top: 13px;
+    border-radius: 25px;
+
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment p {
+    margin-top: 10px;
+}
+
+.book {
+    cursor: pointer;
+    height: 300px;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.model content {
+    margin-top: 100px;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.model-body {
+    text-align: center;
+}
+
+.img_modal {
+    display: inline-block;
 }
